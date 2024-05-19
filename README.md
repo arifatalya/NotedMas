@@ -4,8 +4,6 @@ A simple CRUD web application made for Database Systems Laboratory 9th module's 
 
 
 ## Features
-
-- User Login
 - Add new notes
 - Update the content of notes
 - Delete notes
